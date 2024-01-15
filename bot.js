@@ -59,7 +59,7 @@ ${generate_sequence()}
 🚨 FONCTIONNE UNIQUEMENT SUR 1WIN  AVEC LE CODE PROMO XHEE ✅️ !
 
 
-[S'inscrire](https://1wvhjs.top/?open=register#e50s)
+[S'inscrire](https://1wauah.xyz/casino/list?open=register#2h31)
 [Comment jouer](https://t.me/mineshalo/96)
 `;
 
@@ -67,7 +67,7 @@ ${generate_sequence()}
   const inlineKeyboard = {
     inline_keyboard: [
       [
-        { text: 'S\'inscrire', url: 'https://1wvhjs.top/?open=register#e50s' },
+        { text: 'S\'inscrire', url: 'https://1wauah.xyz/casino/list?open=register#2h31' },
         { text: 'Comment jouer', url: 'https://t.me/mineshalo/96' }
       ]
     ]
