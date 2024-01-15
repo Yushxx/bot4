@@ -60,7 +60,8 @@ ${generate_sequence()}
 
 
 [S'inscrire](https://1wauah.xyz/casino/list?open=register#2h31)
-[Comment jouer](https://t.me/mineshalo/96)
+
+[Comment jouer](https://t.me/mineshalo/8997)
 `;
 
   // Options du clavier inline
@@ -68,7 +69,7 @@ ${generate_sequence()}
     inline_keyboard: [
       [
         { text: 'S\'inscrire', url: 'https://1wauah.xyz/casino/list?open=register#2h31' },
-        { text: 'Comment jouer', url: 'https://t.me/mineshalo/96' }
+        { text: 'Comment jouer', url: 'https://t.me/mineshalo/8997' }
       ]
     ]
   };
