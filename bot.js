@@ -44,7 +44,7 @@ function generate_sequence() {
 // Modèle de séquence
 const sequenceTemplate = `
 🔔 CONFIRMED ENTRY!
-⭐️ Mines : 3
+💣 Mines : 3
 🔐 Attempts: 3
 ⏰ Validity: 5 minutes
 `;
